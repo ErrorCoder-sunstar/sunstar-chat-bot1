@@ -22,7 +22,7 @@ import pywhatkit
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-NEWS_API_KEY = "727c5396fd704892a963ecdf5fff9bb3" #openweather
+NEWS_API_KEY = "" # Replace with your API key
 NEWS_API_URL = "https://newsapi.org/v2/top-headlines"
 
 
@@ -63,7 +63,7 @@ def takecommand():
 # 1.to get weather
 def get_weather(city_name):
     API_KEY = (
-        "86c52e08bc8f26a3ad8786c2a504798b"  # Replace with your OpenWeatherMap API key
+        ""  # Replace with your OpenWeatherMap API key
     )
     base_url = "http://api.openweathermap.org/data/2.5/weather"
     params = {
